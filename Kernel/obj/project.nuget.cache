@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4IZhU+GB2GJlb+C+vkpJjcrpWsfTySDqOqCKX5KqMYrPAlZI7ANjasltc1zQ7Qp1Jf0rEAyJhuGOH4O+gF8QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vidit Awasthi\\source\\repos\\Kernel\\Kernel\\Kernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20190628100707\\cosmos.build.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20190628100707\\cosmos.common.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20190628100707\\cosmos.core.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20190628100707\\cosmos.debug.kernel.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20190628100707\\cosmos.hal2.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20190628100707\\cosmos.system2.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20190628100707\\il2cpu.api.0.1.0-localbuild20190628100707.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\microsoft.netcore.app\\2.0.9\\microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.9\\microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.9\\microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.9\\microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.app\\2.0.9\\runtime.win-x86.microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnetapphost\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnethostpolicy\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\Vidit Awasthi\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnethostresolver\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
